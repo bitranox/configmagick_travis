@@ -1,0 +1,2 @@
+# configmagick_travis
+configmagick_travis
